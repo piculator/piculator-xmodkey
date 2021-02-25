@@ -1,0 +1,9 @@
+Package: piculator-xmodkey
+Architecture: all
+Name: piculator-xmodkey
+Description: Modify some key mappings.
+Version: 1.0-1
+Section: base
+Author: Piculator Development Team <piculator@protonmail.com>
+Maintainer: Piculator Development Team <piculator@protonmail.com>
+HomePage: https://github.com/piculator/piculator-xmodkey

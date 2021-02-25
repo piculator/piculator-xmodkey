@@ -1,0 +1,1 @@
+sed -i '/@xmodmap \/etc\/piculator\/Xmodmap/d' /etc/xdg/lxsession/LXDE-pi/autostart
